@@ -1,2 +1,2 @@
 cmake_minimum_required(VERSION 2.6)
-	add_executable(	ifelse ifelseifelse.c	)
+	add_executable(	nested nested.c	)
